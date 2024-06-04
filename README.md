@@ -62,7 +62,7 @@ Establish RDP (Remote Desktop Protocol) Connection to Client-1 and initiate perp
 </p>
 <br />
 
-![image](https://github.com/yohan-perera/configure-ad/assets/156178441/b7fa8ffa-0568-4502-878c-072c4f40c722)
+![image](https://github.com/yohan-perera/configure-ad/assets/156178441/cbdfc8bc-ada2-4e6e-a201-3743e6b18b22)
 
 <br />
 
